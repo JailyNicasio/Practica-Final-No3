@@ -1,0 +1,130 @@
+
+body{
+
+  background-color: #01579b;
+ padding:  40px;
+}
+
+
+.iconos {
+float: right;
+
+}
+
+header{
+	width:100%;
+	height: 100px;
+	max-width: 100%;
+}
+
+.container-fluid a{
+  padding:0px;
+  margin: 5%;
+  margin-left: 10px;
+  display: inline-block;
+}
+
+ section{
+   	text-align: justify;
+    color:white;
+    padding: 10px;
+   }
+
+   section img{
+   padding: 10px;
+    height: 150px;
+    margin: 5px;
+   }
+
+   section h3{
+  color:#ff5722;
+
+   }
+  section img{
+
+    margin-top:8.10px;  }
+
+  
+
+.container_navbar-form{
+
+  margin-top:-35rem;
+}
+
+.container{
+  max-width: 100%;
+}
+
+article{
+  text-align: justify;
+  color: white;
+
+}
+article p{
+
+  margin-top: -95px;
+}
+article h3{
+color:#ff5722;
+margin:5px;
+}
+
+
+
+
+.contenedor{
+ background-color:#212121;
+  width:1200px;
+  max-width:100%;
+  margin: 20px;
+}
+section a{
+color:#aa8742;
+margin-top:-80px;
+font-size: 15px;
+
+}
+
+section a:hover{
+
+  background-color:white;
+}
+
+.container-botones{
+padding: 10px;
+
+}
+article{
+  
+  padding:20px;
+}
+
+article img{
+  height:250px;
+}
+
+aside{
+
+  margin-top:-750px; 
+}
+
+aside a{
+
+ color:Black; 
+}
+
+aside a:hover{
+color:green;
+
+}
+
+.artistas img{
+
+  border-radius:15px;
+  margin: 5px;
+}
+body h2{
+  color:white;
+  text-align: center;
+}
+
